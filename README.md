@@ -52,7 +52,7 @@ Hacer commit en main con el mensaje "Add updateCounter functionality" y push de 
 
 1. Ejecutar `git push origin main` para subir los cambios si no lo hiciste hasta ahora.
 2. Tomar una captura de pantalla de la aplicación web filtrando por "Puzzle"
-3. Crear un nuevo Issue en GitHub con el título `Aplicación Web` y adjuntar la captura en el cuerpo del issue.
+3. Crear un nuevo Issue en GitHub con el título `Aplicación Web` y adjuntar la captura en el cuerpo del issue. Nota: Es posible tener que habilitar la creación de issues de un repositorio creado a partir de un fork. Esto se logra desde Settings > General, buscar la sección Features y habilitar el checkbox de "Issues".
 
 ## Referencias
 - Git: https://git-scm.com/book/en/v2
